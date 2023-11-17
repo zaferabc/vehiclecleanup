@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZ+uf7BrCj+4xHdmuI1f182sjRzaYMk7/V7jw4M7KXCghG4tdvJXBHwlNIzloqXhHJR9jUGAISDlyU+UzgYIEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwang\\OneDrive\\Masaüstü\\Plugin (Projeler)\\SK_VehicleCleanup\\SK_VehicleCleanup\\SK_VehicleCleanup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwang\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\hwang\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.3\\microsoft.netframework.referenceassemblies.net46.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
