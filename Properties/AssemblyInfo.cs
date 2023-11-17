@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SK_VehicleCleanup")]
-[assembly: AssemblyDescription("Unturned LDM (RocketMod) plugin to remove unused vehicles.")]
+[assembly: AssemblyDescription("Unturned plugin to remove unused vehicles.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SK_VehicleCleanup")]
